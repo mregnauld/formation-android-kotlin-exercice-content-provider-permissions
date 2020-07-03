@@ -1,0 +1,9 @@
+<resources>
+
+	<!-- Commun -->
+	<string name="app_name">Content Provider Permissions</string>
+
+	<!-- Main -->
+	<string name="main_message_permission_refusee">Permission contacts refusée</string>
+
+</resources>
